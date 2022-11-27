@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fOCkRFZNojmI3VAll4diCtM5uzP9OEXBudUYDWpQaZbunGlMZ5EDhSiVO+EyxeleeZY45sPIbFuIVwLXxuQHyg==",
+  "success": true,
+  "projectFilePath": "D:\\rdmca\\Documents\\Portafolio\\Projects\\JSON,_XML_CSV Parser\\ProjectOne_ARK\\ProjectOne_ARK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdmca\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

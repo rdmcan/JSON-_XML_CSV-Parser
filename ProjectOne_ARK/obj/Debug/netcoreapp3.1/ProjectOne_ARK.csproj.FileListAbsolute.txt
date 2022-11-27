@@ -1,0 +1,45 @@
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.exe
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.deps.json
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.json
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.dev.json
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csprojAssemblyReference.cache
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfoInputs.cache
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfo.cs
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CoreCompileInputs.cache
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CopyComplete
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+C:\Users\break\OneDrive\Desktop\C# Advanced\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.genruntimeconfig.cache
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.exe
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.deps.json
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.json
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.dev.json
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csprojAssemblyReference.cache
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfoInputs.cache
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfo.cs
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CoreCompileInputs.cache
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CopyComplete
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+D:\School 2021\Advanced C#\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.genruntimeconfig.cache
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.exe
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.deps.json
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.json
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.runtimeconfig.dev.json
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csprojAssemblyReference.cache
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfoInputs.cache
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.AssemblyInfo.cs
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CoreCompileInputs.cache
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.csproj.CopyComplete
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.dll
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.pdb
+D:\MyDrive\FANSHAWE\FANSHAWE Winter 2021\INFO-5101-02 - C# Advanced Topics\Projects\Project 1\ProjectOne_ARK__V1.4\ProjectOne_ARK__V1.3\ProjectOne_ARK\ProjectOne_ARK\obj\Debug\netcoreapp3.1\ProjectOne_ARK.genruntimeconfig.cache
